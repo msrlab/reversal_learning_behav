@@ -1,10 +1,8 @@
 function sh = run_analysis
 %This script was used to perform the modelling analysis for the paper 
-%"Developmental Differences in Probabilistic Reversal Learning: a 
-%Computational Modeling Approach" by Eileen Weiss, Jana A Kruppa, Gereon R
-%Fink, Beate Herpertz-Dahlmann, Kerstin Konrad and Martin Schulte-R???ther
-%submitted for consideration of publication to "Frontiers in Human
-%Neuroscience"
+%Oberwelland E, Kruppa J, Fink GR, Herpertz-Dahlmann B, Konrad K, Schulte-Rüther M (2021) 
+%Developmental trajectories of probabilistic reversal learning: a computational modeling approach. 
+%Frontiers in Neuroscience doi:10.3389/fnins.2020.536596. 
 %script written by Eileen Oberwelland Weiss and Martin Schulte-Ruether
 %https://github.com/msrlab/reversal-learning_behav
 %
