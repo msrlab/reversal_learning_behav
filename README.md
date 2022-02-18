@@ -1,7 +1,8 @@
 # reversal-learning_behav
-analysis script to be published for Front Hum Neurosci manuscript: 
-Developmental Differences in Probabilistic Reversal Learning: a Computational Modeling Approach
-Weiss Oberwelland et al.
+analysis script for the publication: 
+Oberwelland E, Kruppa J, Fink GR, Herpertz-Dahlmann B, Konrad K, Schulte-Rüther M (2021). 
+Developmental trajectories of probabilistic reversal learning: a computational modeling approach. 
+Frontiers in Neuroscience doi:10.3389/fnins.2020.536596. 
 
 fits a Rescorla-Wagner model and two HGF model variants to data from a reversal learning task
 
